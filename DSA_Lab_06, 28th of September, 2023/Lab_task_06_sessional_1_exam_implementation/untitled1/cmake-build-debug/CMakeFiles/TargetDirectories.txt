@@ -1,0 +1,3 @@
+/home/rohtanza/Desktop/lab_task_06_sessional_1_exam_implementation/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/rohtanza/Desktop/lab_task_06_sessional_1_exam_implementation/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Desktop/lab_task_06_sessional_1_exam_implementation/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

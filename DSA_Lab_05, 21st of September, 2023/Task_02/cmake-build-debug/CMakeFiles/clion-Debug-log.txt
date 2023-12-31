@@ -1,0 +1,4 @@
+/home/rohtanza/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rohtanza/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S "/mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_02" -B "/mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_02/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_02/cmake-build-debug

@@ -1,0 +1,3 @@
+/mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_01/cmake-build-debug/CMakeFiles/Task_01.dir
+/mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/Disk_01/DSA/DSA Lab 05, 21st of September, 2023/Task_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/rohtanza/Desktop/DSA_LAB_QUIZ_02/Task_01/cmake-build-debug/CMakeFiles/Task_01.dir
+/home/rohtanza/Desktop/DSA_LAB_QUIZ_02/Task_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Desktop/DSA_LAB_QUIZ_02/Task_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

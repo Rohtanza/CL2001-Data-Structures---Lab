@@ -1,0 +1,3 @@
+/home/rohtanza/CLionProjects/DSA LAB 10/cmake-build-debug/CMakeFiles/DSA_LAB_10.dir
+/home/rohtanza/CLionProjects/DSA LAB 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/CLionProjects/DSA LAB 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

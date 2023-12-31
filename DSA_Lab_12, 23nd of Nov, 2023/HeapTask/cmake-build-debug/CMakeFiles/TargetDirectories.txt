@@ -1,0 +1,3 @@
+C:/Users/test2023/CLionProjects/HeapTask/cmake-build-debug/CMakeFiles/HeapTask.dir
+C:/Users/test2023/CLionProjects/HeapTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/test2023/CLionProjects/HeapTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir

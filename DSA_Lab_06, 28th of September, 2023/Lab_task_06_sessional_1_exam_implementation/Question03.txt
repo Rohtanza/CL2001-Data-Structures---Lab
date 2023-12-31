@@ -1,0 +1,12 @@
+Question no 3 answer:
+
+\*
+The best solution for implementing a text editor is a linked list-based stack.
+why?
+1. Dynamic Size: A linked list-based stack does not need a predefined size, it can grow and shrink as you want. This is beneficial for a text editor application where the number of text states can vary widely and is unknown ahead of time
+
+2. Efficiency in Undo and Redo: Insertion and deletion of nodes can be performed in constant time, assuming we have a pointer to the node being operated on. This makes undo and redo operations more efficient
+
+3. Space Efficiency: Linked lists only need space for the elements actually in the list, along with some additional space for pointers, which is usually quite small. This makes them more space-efficient when the number of elements varies widely
+
+*\

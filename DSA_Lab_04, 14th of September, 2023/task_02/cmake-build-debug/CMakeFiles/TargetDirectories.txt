@@ -1,0 +1,3 @@
+D:/DSA/DSA Lab 04, task 2 14th of September, 2023/cmake-build-debug/CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir
+D:/DSA/DSA Lab 04, task 2 14th of September, 2023/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DSA/DSA Lab 04, task 2 14th of September, 2023/cmake-build-debug/CMakeFiles/rebuild_cache.dir

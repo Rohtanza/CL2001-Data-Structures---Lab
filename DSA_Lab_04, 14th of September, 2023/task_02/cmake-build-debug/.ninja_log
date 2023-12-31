@@ -1,0 +1,21 @@
+# ninja log v5
+15	709	7158546822196633	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/SongNode.cpp.obj	d04a67deb3eb37a8
+1	817	7158546823086371	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	e31748409ef54e2f
+8	849	7158546823616078	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	69855822f9cc50d3
+849	1224	7158546827304901	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae
+3	687	7163773530474145	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/SongNode.cpp.obj	58d8aaa422c53d95
+11	718	7163773530813261	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	89dba52570dda8b2
+4	540	7163773948783430	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	f3efa8eb076113f2
+4	711	7163774648628781	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	89dba52570dda8b2
+10	772	7163774649336880	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	f3efa8eb076113f2
+772	987	7163774651376637	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae
+6	1535	7163775898480420	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	89dba52570dda8b2
+94	1619	7163775899368028	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	f3efa8eb076113f2
+1620	1969	7163775902706589	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae
+4	626	7163777334100983	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	89dba52570dda8b2
+4	575	7163777579445189	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	f3efa8eb076113f2
+575	885	7163777582489425	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae
+4	544	7163778028065712	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/main.cpp.obj	89dba52570dda8b2
+544	739	7163778029936225	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae
+5	614	7163780359321588	CMakeFiles/DSA_Lab_01__8th_of_September__2023.dir/Playlist.cpp.obj	f3efa8eb076113f2
+614	819	7163780361311419	DSA_Lab_01__8th_of_September__2023.exe	e80075cebd614bae

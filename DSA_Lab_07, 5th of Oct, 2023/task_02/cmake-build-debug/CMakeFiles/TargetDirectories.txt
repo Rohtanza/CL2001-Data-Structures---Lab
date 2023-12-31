@@ -1,0 +1,3 @@
+/home/rohtanza/Desktop/Lab-7Task02/cmake-build-debug/CMakeFiles/Lab_7Task02.dir
+/home/rohtanza/Desktop/Lab-7Task02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Desktop/Lab-7Task02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

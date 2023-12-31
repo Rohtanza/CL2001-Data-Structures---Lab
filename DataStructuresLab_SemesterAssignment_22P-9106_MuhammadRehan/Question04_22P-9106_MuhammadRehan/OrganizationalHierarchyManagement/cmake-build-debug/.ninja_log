@@ -1,0 +1,13 @@
+# ninja log v5
+534	682	1701293974453123861	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
+0	533	1701293974303122357	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+2	2778	1701299216996692572	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+2788	3080	1701299217310022736	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
+1	838	1701299974997775865	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+838	945	1701299975104443171	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
+1	1203	1701300152315548834	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+1206	1409	1701300152522216831	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
+1	979	1701300623506612641	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+979	1061	1701300623589947536	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
+1	649	1701300732741894600	CMakeFiles/OrganizationalHierarchyManagement.dir/main.cpp.o	82509ac26b1c5d60
+649	729	1701300732821895960	OrganizationalHierarchyManagement	ad45c57b46dd0fbc
